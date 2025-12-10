@@ -41,3 +41,9 @@ router.delete('/:id', protect, deleteAppointment);
 
 module.exports = router;
 
+
+
+
+
+
+

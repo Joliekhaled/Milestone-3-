@@ -44,3 +44,9 @@ router.delete('/:id', authorize('admin'), deleteDoctor);
 
 module.exports = router;
 
+
+
+
+
+
+

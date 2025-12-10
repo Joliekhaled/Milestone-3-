@@ -41,3 +41,9 @@ MONGODB_URI=mongodb+srv://jolieiskandar_db_user:YourActualPassword123@cluster1.q
 - **Connection timeout**: Make sure you added your IP address in MongoDB Atlas Network Access
 - **Can't connect**: Verify your cluster is running (green status in Atlas dashboard)
 
+
+
+
+
+
+
